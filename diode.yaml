@@ -1,0 +1,5 @@
+version: 0.0.1
+workspace:
+  examples:
+    context: 'git-packages'
+    description: This is an example project for diode from git
